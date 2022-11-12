@@ -7,3 +7,8 @@ h2 {
 p {
   color: aqua;
 }
+a {
+  color: gray;
+  list-style: none;
+  text-decoration: none;
+}
