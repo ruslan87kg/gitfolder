@@ -10,3 +10,18 @@ h5 {
   text-transform: capitalize;
   color: chartreuse;
 }
+body {
+  margin: 0 auto;
+  padding: 0;
+  background-color: cornflowerblue;
+}
+@media (max-width: 500px) {
+  body {
+    background-color: gold;
+  }
+}
+@media (max-width: 800px) {
+  body {
+    background-color: aqua;
+  }
+}
