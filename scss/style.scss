@@ -9,3 +9,11 @@ h5 {
   text-transform: capitalize;
   color: chartreuse;
 }
+p {
+  border: 1px solid black;
+  max-width: 300px;
+  background-color: fuchsia;
+  color: white;
+  margin: 0 auto;
+  padding: 1em;
+}
